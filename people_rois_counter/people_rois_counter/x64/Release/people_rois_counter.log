@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 386 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  people_rois_counter.vcxproj -> E:\A-eye-tech-task\people_rois_counter\x64\Release\people_rois_counter.exe
